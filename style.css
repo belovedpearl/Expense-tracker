@@ -1,0 +1,45 @@
+.container{
+    text-align: center;
+    padding: 100px;
+    margin: 10px;
+    border: 2px solid;
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+    width: 40%;
+}
+button{
+    color: white;
+    background-color: rgb(52, 247, 52);
+    border: none;
+    width: 10%;
+    height: 40px;
+    font-size: small;
+    margin: 20px;
+    border-radius: 5px;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}
+#name-el{
+    width: 80%;
+    height: 35px;
+    margin: 10px;
+}
+
+.input2{
+    width: 37%;
+    height: 35px;
+    margin: 3px;
+}
+h3{
+    color: rgb(52, 247, 52);
+}
